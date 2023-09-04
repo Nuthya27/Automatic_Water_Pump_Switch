@@ -2,7 +2,10 @@
 
 Promoting global sustainability by conserving power and reducing water wastage is paramount. "Automatic Water Pump Switch with Level Indicator" project aims to empower households to make a meaningful contribution towards minimizing both power and water waste. This solution ensures that the water pump switches off before overflowing, switches on when water reaches a specified low level, and provides a real-time display of the tank's current water level.
 
-![The device](https://github.com/Nuthya27/Smart_Water_Pump_Switch/assets/Images/img1.jpg)
+
+![img1](https://github.com/Nuthya27/Smart_Water_Pump_Switch/assets/111232856/5a42a6b4-5fd1-4ba1-b90b-99b19a123284)
+
+![img2](https://github.com/Nuthya27/Smart_Water_Pump_Switch/assets/111232856/46cdc4da-5598-43b1-8797-cda7b222a04a)
 
 ## The Product Architecture
 
