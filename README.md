@@ -5,8 +5,6 @@ Promoting global sustainability by conserving power and reducing water wastage i
 
 ![img1](https://github.com/Nuthya27/Smart_Water_Pump_Switch/assets/111232856/5a42a6b4-5fd1-4ba1-b90b-99b19a123284)
 
-![img2](https://github.com/Nuthya27/Smart_Water_Pump_Switch/assets/111232856/46cdc4da-5598-43b1-8797-cda7b222a04a)
-
 ## The Product Architecture
 
 The automatic water pump switch consists of three main sub-systems.
@@ -26,4 +24,3 @@ The automatic water pump switch subsystem operates based on preset threshold lev
 
 The water level indicator subsystem provides real-time water level information, displaying it as a numerical value ranging from 0 to 9. This subsystem comprises four main components: a priority encoder (74LS147 IC) to compress multiple inputs into fewer outputs, transistors functioning as NOT gates to handle encoder outputs, a BCD to 7 segment decoder (CD4511 IC) to convert binary input values into 7-segment display outputs, and the 7-segment display itself. The priority encoder collects data from various sources, which is then processed by the transistors and decoded into numerical values by the BCD to 7 segment decoder. The 7-segment display visually represents the current water level, providing users with a clear indication of the water level status.
 
-## Enclosure Design
