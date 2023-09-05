@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Free Documents]
+   Generated File[Auto_Switch.TXT]
+   Generated File[Auto_Switch.LDP]
+   Generated File[Auto_Switch.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:10:14 AM On 9/28/2022

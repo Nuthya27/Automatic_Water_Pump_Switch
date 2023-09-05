@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Free Documents]
+   Generated File[Power_Supply.TXT]
+   Generated File[Power_Supply.LDP]
+   Generated File[Power_Supply.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:56:01 AM On 9/28/2022

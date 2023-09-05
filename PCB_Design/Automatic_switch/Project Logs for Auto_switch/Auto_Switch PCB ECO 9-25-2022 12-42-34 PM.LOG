@@ -1,0 +1,15 @@
+Change Component Footprint: Designator=J3 Old Footprint=FP-TSW-102-07-L-S-MFG New Footprint=691101710002
+Change Component Comment : Designator=J3 Old Comment=TSW-102-07-L-S New Comment=691101710002
+Change Managed Component Library Link : Designator=J3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=F2D63C9D-9DAE-48A1-973F-4C269F101F60 New ItemGUID=F1C3C91A-FB8A-4039-ADDE-77ABE769A10A Old RevisionGUID=187A3F99-01B6-4A0F-8B55-52E5A6D9246D New RevisionGUID=307C1ED0-2F24-4950-A9D3-5B5E1E7E3DB0
+Change component parameters: Designator = "J3" ("J3"); Footprint = "FP-TSW-102-07-L-S-MFG"; UniqueID = "\VPUTEGUW" ("\VPUTEGUW")
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://katalog.we-online.de/em/datasheet/6911017100xx.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40to105degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "691101710002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "691101710002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Number"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "5.00mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "WurthElektronik"; VariantName = "[No Variations]"

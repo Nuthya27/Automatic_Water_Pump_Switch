@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=D1 NewDesignator=D6
+Change Component Designator: OldDesignator=D2 NewDesignator=D5
+Change Net Name : Old Net Name=NetC1_2 New Net Name=next input
+Change Net Name : Old Net Name=NetD2_2 New Net Name=NetD5_2
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=U1-5
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=R1-2
+Added Net: Name=NetD6_2
+Added Member To Class: ClassName=Power_Supply Member=Component D5 LED
+Added Member To Class: ClassName=Power_Supply Member=Component D6 LED
